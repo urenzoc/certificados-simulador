@@ -8,11 +8,12 @@ Simulador de exámenes de certificación en una sola página estática: `index.h
 | AZ-900 Azure Fundamentals | 172 |
 | DP-900 Azure Data Fundamentals | 185 |
 | AI-901 Azure AI Fundamentals | 727 |
+| AI-103 Azure AI Apps and Agents Developer Associate | 2,211 |
 | Databricks Apache Spark Developer | 114 |
 | Databricks Data Engineer Associate | 244 |
 | Databricks Data Engineer Professional | 53 |
 
-AI-103, AI-200, Generative AI Engineer, PCEP y PCAP aparecen como *Próximamente*.
+AI-200, Generative AI Engineer, PCEP y PCAP aparecen como *Próximamente*.
 
 ## Probarlo en tu computadora
 Haz doble clic en `index.html`, o sírvelo localmente:
