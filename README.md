@@ -1,6 +1,6 @@
-# CertiSim · Simulador de certificaciones
+# Simulador de Certificaciones
 
-Simulador de exámenes de certificación en una sola página estática: `index.html` trae todas las preguntas incluidas y no necesita servidor ni base de datos.
+Simulador de exámenes de certificación en una sola página estática: `index.html` trae todas las preguntas incluidas y no necesita servidor ni base de datos. La carpeta `teoria/` tiene una página de teoría esencial por certificación, enlazada desde el simulador.
 
 ## Exámenes disponibles
 | Examen | Preguntas |
