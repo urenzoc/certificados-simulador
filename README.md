@@ -1,4 +1,4 @@
-# Simulador de certificaciones
+# CertiSim · Simulador de certificaciones
 
 Simulador de exámenes de certificación en una sola página estática: `index.html` trae todas las preguntas incluidas y no necesita servidor ni base de datos.
 
@@ -8,12 +8,13 @@ Simulador de exámenes de certificación en una sola página estática: `index.h
 | AZ-900 Azure Fundamentals | 172 |
 | DP-900 Azure Data Fundamentals | 185 |
 | AI-901 Azure AI Fundamentals | 727 |
-| AI-103 Azure AI Apps and Agents Developer Associate | 2,211 |
+| AI-103 Azure AI Apps and Agents Developer Associate | 1,972 |
 | Databricks Apache Spark Developer | 114 |
 | Databricks Data Engineer Associate | 244 |
 | Databricks Data Engineer Professional | 53 |
+| Databricks Generative AI Engineer Associate | 223 |
 
-AI-200, Generative AI Engineer, PCEP y PCAP aparecen como *Próximamente*.
+AI-200, PCEP y PCAP aparecen como *Próximamente*.
 
 ## Probarlo en tu computadora
 Haz doble clic en `index.html`, o sírvelo localmente:
