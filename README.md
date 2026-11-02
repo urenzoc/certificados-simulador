@@ -9,6 +9,7 @@ Simulador de exámenes de certificación en una sola página estática: `index.h
 | DP-900 Azure Data Fundamentals | 185 |
 | AI-901 Azure AI Fundamentals | 727 |
 | AI-103 Azure AI Apps and Agents Developer Associate | 1,972 |
+| DP-700 Microsoft Fabric Data Engineer Associate | 383 |
 | Databricks Apache Spark Developer | 114 |
 | Databricks Data Engineer Associate | 244 |
 | Databricks Data Engineer Professional | 53 |
